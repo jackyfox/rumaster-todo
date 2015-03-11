@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<todos>
+   <item>
+      <text>Установить Apache</text>
+	  <done>1</done>
+   </item>
+   <item>
+      <text>Composer -> Silex и Phing</text>
+	  <done>1</done>
+   </item>
+   <item>
+      <text>Создать контроллер для чтения xml</text>
+	  <done>0</done>
+   </item>
+</todos>
